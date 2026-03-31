@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/</link>
+      <atom:link href="https://cochin-qmb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tenaillon-Matic research group</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Tenaillon-Matic research group</title>
+      <link>https://cochin-qmb.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://cochin-qmb.github.io/tour/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-throughput conjugation reveals strain specific recombination patterns enabling precise trait mapping in Escherichia coli</title>
+      <link>https://cochin-qmb.github.io/publication/corneloup_bellengier_et_al2025/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/corneloup_bellengier_et_al2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoya Dixit&#39;s PhD Defense</title>
+      <link>https://cochin-qmb.github.io/event/zoya_defense/</link>
+      <pubDate>Tue, 23 Sep 2025 14:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/event/zoya_defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://cochin-qmb.github.io/contact/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://cochin-qmb.github.io/people/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging: a possible road toward gut microbiota pathoadaptation</title>
+      <link>https://cochin-qmb.github.io/publication/melo-miranda_2025/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/melo-miranda_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clonal interference and genomic repair during strain coexistence in the gut</title>
+      <link>https://cochin-qmb.github.io/publication/frazao_seixas_2025/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/frazao_seixas_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of Escherichia coli strains under competent or compromised adaptive immunity</title>
+      <link>https://cochin-qmb.github.io/publication/ameline_seixas_2025/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/ameline_seixas_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide mapping of spontaneous DNA replication error-hotspots using mismatch repair proteins in rapidly proliferating Escherichia coli</title>
+      <link>https://cochin-qmb.github.io/publication/hasenauer_barreto_lotton_2024/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/hasenauer_barreto_lotton_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing fitness effects of mutations through long-term bacterial evolution</title>
+      <link>https://cochin-qmb.github.io/publication/couce_et_al_2024/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/couce_et_al_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the effect of mutations to investigate recent events  of selection across 60,472 Escherichia coli strains</title>
+      <link>https://cochin-qmb.github.io/publication/vigue_tenaillon_2023/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/vigue_tenaillon_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cochin-qmb.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

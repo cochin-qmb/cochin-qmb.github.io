@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arnaud Maillard | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/arnaud-maillard/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/arnaud-maillard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arnaud Maillard</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Arnaud Maillard</title>
+      <link>https://cochin-qmb.github.io/author/arnaud-maillard/</link>
+    </image>
+    
+    <item>
+      <title>Arnaud Maillard</title>
+      <link>https://cochin-qmb.github.io/author/arnaud-maillard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/author/arnaud-maillard/</guid>
+      <description>&lt;p&gt;I am a physician specialized in medical genetics currently pursuing an MD–PhD in evolutionary microbiology. My research focuses on understanding how genetic variation translates into phenotypic diversity through the genotype–phenotype map. Using proteins as tractable model systems, my PhD combines high-throughput experimental approaches with computational modeling to quantify key evolutionary properties such as epistasis, mutational robustness, and evolvability. I integrate computational analyses with experimental diversification approaches to characterize how biological systems explore genetic variation and generate phenotypic change. More broadly, this work seeks to bridge evolutionary biology and medical genetics to improve our understanding of mutation effects and phenotypic variability.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul	Lubrano | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/paul-lubrano/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/paul-lubrano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul	Lubrano</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Paul	Lubrano</title>
+      <link>https://cochin-qmb.github.io/author/paul-lubrano/</link>
+    </image>
+    
+    <item>
+      <title>Paul Lubrano</title>
+      <link>https://cochin-qmb.github.io/author/paul-lubrano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/author/paul-lubrano/</guid>
+      <description>&lt;p&gt;Paul is a Post-doctoral researcher who studies the impact of antibiotics on the human gut microbiota. He earnt his doctoral degree from the University of Tübingen (Germany), studying the impact of E. coli metabolism on its antibiotic resistance.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

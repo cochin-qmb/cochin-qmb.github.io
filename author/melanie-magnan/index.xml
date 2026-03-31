@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mélanie Magnan | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/melanie-magnan/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/melanie-magnan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mélanie Magnan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Mélanie Magnan</title>
+      <link>https://cochin-qmb.github.io/author/melanie-magnan/</link>
+    </image>
+    
+    <item>
+      <title>Mélanie Magnan</title>
+      <link>https://cochin-qmb.github.io/author/melanie-magnan/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/author/melanie-magnan/</guid>
+      <description>&lt;p&gt;I have been working as an engineer with Olivier Tenaillon for around ten years. I contribute to research on Escherichia coli diversity and the identification of genetic determinants involved in microbial adaptation within an evolutionary context. This work combines microbial evolution experiments with next-generation sequencing approaches (Illumina and Nanopore technologies), in which I have specialized.
+I also investigate the impact of antibiotics on the gut microbiota and antibiotic resistance using an in vitro digestive tract model called MBRA system (MiniBioReactor Array).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

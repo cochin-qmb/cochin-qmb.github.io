@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sébastien Fleurier | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/sebastien-fleurier/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/sebastien-fleurier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sébastien Fleurier</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Sébastien Fleurier</title>
+      <link>https://cochin-qmb.github.io/author/sebastien-fleurier/</link>
+    </image>
+    
+    <item>
+      <title>Sébastien Fleurier</title>
+      <link>https://cochin-qmb.github.io/author/sebastien-fleurier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/author/sebastien-fleurier/</guid>
+      <description>&lt;p&gt;I am a research engineer with a PhD in microbiology, specializing in the study of bacterial physiology and its responses to diverse environmental stresses, using advanced technologies such as microfluidics.&lt;/p&gt;
+&lt;p&gt;I have also been teaching in Bachelor’s and Master’s programmes for more than ten years. Over this period, I have acquired substantial experience as a professional member on several examination boards for National Education diplomas, and I serve on the examination board for the Agrégation in Biochemistry, which oversees the recruitment of future teachers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

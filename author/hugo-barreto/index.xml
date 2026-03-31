@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Barreto | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/hugo-barreto/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/hugo-barreto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Barreto</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Hugo Barreto</title>
+      <link>https://cochin-qmb.github.io/author/hugo-barreto/</link>
+    </image>
+    
+    <item>
+      <title>Hugo Barreto</title>
+      <link>https://cochin-qmb.github.io/author/hugo-barreto/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/author/hugo-barreto/</guid>
+      <description>&lt;p&gt;Hugo Barreto is a PostDoc at Institut Cochin. His research interests focus eco-evolutionary dynamics of Escherichia coli in different environments, such as the Human gut microbiota. His currently main interest is leveraging the evolutionary paths taken by E. coli to understand how it can evade colonization resistance within the Human gut microbiota.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+      <guid>https://cochin-qmb.github.io/publication/frazao_seixas_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of Escherichia coli strains under competent or compromised adaptive immunity</title>
+      <link>https://cochin-qmb.github.io/publication/ameline_seixas_2025/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/ameline_seixas_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide mapping of spontaneous DNA replication error-hotspots using mismatch repair proteins in rapidly proliferating Escherichia coli</title>
+      <link>https://cochin-qmb.github.io/publication/hasenauer_barreto_lotton_2024/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/hasenauer_barreto_lotton_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Léa Dunand-Sauthier | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/lea-dunand-sauthier/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/lea-dunand-sauthier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Léa Dunand-Sauthier</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Léa Dunand-Sauthier</title>
+      <link>https://cochin-qmb.github.io/author/lea-dunand-sauthier/</link>
+    </image>
+    
+    <item>
+      <title>Léa Dunand-Sauthier</title>
+      <link>https://cochin-qmb.github.io/author/lea-dunand-sauthier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/author/lea-dunand-sauthier/</guid>
+      <description>&lt;p&gt;I am a Master&amp;rsquo;s student at Sorbonne University doing an internship with the Tenaillon/Matic team. I am working under the supervision of Arnaud Gutierrez on the dynamics of coevolution between phages and bacteria using microscopy and sequencing methods on populations marked with genetic barcodes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

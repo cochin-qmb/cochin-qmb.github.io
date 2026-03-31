@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audrey Menegaz Proença | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/audrey-menegaz-proenca/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/audrey-menegaz-proenca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Audrey Menegaz Proença</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Audrey Menegaz Proença</title>
+      <link>https://cochin-qmb.github.io/author/audrey-menegaz-proenca/</link>
+    </image>
+    
+    <item>
+      <title>Audrey M. Proença</title>
+      <link>https://cochin-qmb.github.io/author/audrey-m.-proenca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/author/audrey-m.-proenca/</guid>
+      <description>&lt;p&gt;I am a researcher interested in evolutionary microbiology and systems biology. My work combines single-cell microscopy, molecular engineering, and evolutionary theories to investigate the population dynamics of &lt;em&gt;Escherichia coli&lt;/em&gt;. In particular, I am interested in the mechanisms that produce variation among individual cells, from divisional asymmetry to the emergence of mutations, and in the evolutionary consequences of this variation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

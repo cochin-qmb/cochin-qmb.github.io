@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandra Baron | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/alexandra-baron/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/alexandra-baron/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandra Baron</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Alexandra Baron</title>
+      <link>https://cochin-qmb.github.io/author/alexandra-baron/</link>
+    </image>
+    
+    <item>
+      <title>High-throughput conjugation reveals strain specific recombination patterns enabling precise trait mapping in Escherichia coli</title>
+      <link>https://cochin-qmb.github.io/publication/corneloup_bellengier_et_al2025/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/corneloup_bellengier_et_al2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

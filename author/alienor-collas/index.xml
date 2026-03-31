@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aliénor Collas | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/alienor-collas/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/alienor-collas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aliénor Collas</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Aliénor Collas</title>
+      <link>https://cochin-qmb.github.io/author/alienor-collas/</link>
+    </image>
+    
+    <item>
+      <title>Aliénor Collas</title>
+      <link>https://cochin-qmb.github.io/author/alienor-collas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/author/alienor-collas/</guid>
+      <description>&lt;p&gt;I am a Master’s student at Sorbonne University doing an internship with the Tenaillon-Matic team. I am working under the supervision of Arnaud Gutierrez on modeling the dynamics between phages and bacteria using mathematical models and informatic simulations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

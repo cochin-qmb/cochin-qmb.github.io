@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://cochin-qmb.github.io/sitemap.xml

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lena Francelle | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/lena-francelle/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/lena-francelle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lena Francelle</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Lena Francelle</title>
+      <link>https://cochin-qmb.github.io/author/lena-francelle/</link>
+    </image>
+    
+    <item>
+      <title>Lena Francelle</title>
+      <link>https://cochin-qmb.github.io/author/lena-francelle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/author/lena-francelle/</guid>
+      <description>&lt;p&gt;During my internship, I work on bacterial genetics in &lt;em&gt;Escherichia coli&lt;/em&gt;. I use molecular biology techniques such as PCR, phage P1 transduction, and electroporation to construct mutant strains and study gene transfer through recombination and conjugation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucile Vigué | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/lucile-vigue/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/lucile-vigue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucile Vigué</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cochin-qmb.github.io/author/lucile-vigue/avatar_hu_e23cbdd8c662dbf4.jpg</url>
+      <title>Lucile Vigué</title>
+      <link>https://cochin-qmb.github.io/author/lucile-vigue/</link>
+    </image>
+    
+    <item>
+      <title>Predicting the effect of mutations to investigate recent events  of selection across 60,472 Escherichia coli strains</title>
+      <link>https://cochin-qmb.github.io/publication/vigue_tenaillon_2023/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/vigue_tenaillon_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

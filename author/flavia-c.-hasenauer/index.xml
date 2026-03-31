@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flavia C. Hasenauer | Tenaillon-Matic research group</title>
+    <link>https://cochin-qmb.github.io/author/flavia-c.-hasenauer/</link>
+      <atom:link href="https://cochin-qmb.github.io/author/flavia-c.-hasenauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flavia C. Hasenauer</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cochin-qmb.github.io/media/icon_hu_28f2bfc1d806ffe6.png</url>
+      <title>Flavia C. Hasenauer</title>
+      <link>https://cochin-qmb.github.io/author/flavia-c.-hasenauer/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide mapping of spontaneous DNA replication error-hotspots using mismatch repair proteins in rapidly proliferating Escherichia coli</title>
+      <link>https://cochin-qmb.github.io/publication/hasenauer_barreto_lotton_2024/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cochin-qmb.github.io/publication/hasenauer_barreto_lotton_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
